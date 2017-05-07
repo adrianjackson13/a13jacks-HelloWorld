@@ -11,6 +11,7 @@ namespace HelloGitHubWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHUb from Visual Studio 2013!");
+            Console.ReadLine();
         }
     }
 }
